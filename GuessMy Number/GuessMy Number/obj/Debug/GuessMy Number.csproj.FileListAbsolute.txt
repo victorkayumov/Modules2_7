@@ -1,0 +1,6 @@
+c:\users\codevalueuser\documents\visual studio 2013\Projects\GuessMy Number\GuessMy Number\bin\Debug\GuessMy Number.exe.config
+c:\users\codevalueuser\documents\visual studio 2013\Projects\GuessMy Number\GuessMy Number\bin\Debug\GuessMy Number.exe
+c:\users\codevalueuser\documents\visual studio 2013\Projects\GuessMy Number\GuessMy Number\bin\Debug\GuessMy Number.pdb
+c:\users\codevalueuser\documents\visual studio 2013\Projects\GuessMy Number\GuessMy Number\obj\Debug\GuessMy Number.csprojResolveAssemblyReference.cache
+c:\users\codevalueuser\documents\visual studio 2013\Projects\GuessMy Number\GuessMy Number\obj\Debug\GuessMy Number.exe
+c:\users\codevalueuser\documents\visual studio 2013\Projects\GuessMy Number\GuessMy Number\obj\Debug\GuessMy Number.pdb
