@@ -1,0 +1,6 @@
+c:\users\codevalueuser\documents\visual studio 2013\Projects\BinaryDisplay\BinaryDisplay\bin\Debug\BinaryDisplay.exe.config
+c:\users\codevalueuser\documents\visual studio 2013\Projects\BinaryDisplay\BinaryDisplay\bin\Debug\BinaryDisplay.exe
+c:\users\codevalueuser\documents\visual studio 2013\Projects\BinaryDisplay\BinaryDisplay\bin\Debug\BinaryDisplay.pdb
+c:\users\codevalueuser\documents\visual studio 2013\Projects\BinaryDisplay\BinaryDisplay\obj\Debug\BinaryDisplay.csprojResolveAssemblyReference.cache
+c:\users\codevalueuser\documents\visual studio 2013\Projects\BinaryDisplay\BinaryDisplay\obj\Debug\BinaryDisplay.exe
+c:\users\codevalueuser\documents\visual studio 2013\Projects\BinaryDisplay\BinaryDisplay\obj\Debug\BinaryDisplay.pdb

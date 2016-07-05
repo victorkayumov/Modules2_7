@@ -1,0 +1,9 @@
+c:\users\codevalueuser\documents\visual studio 2013\Projects\BinaryDisplay\UnitTest_2.6\bin\Debug\UnitTest_2.6.dll
+c:\users\codevalueuser\documents\visual studio 2013\Projects\BinaryDisplay\UnitTest_2.6\bin\Debug\UnitTest_2.6.pdb
+c:\users\codevalueuser\documents\visual studio 2013\Projects\BinaryDisplay\UnitTest_2.6\bin\Debug\BinaryDisplay.exe
+c:\users\codevalueuser\documents\visual studio 2013\Projects\BinaryDisplay\UnitTest_2.6\bin\Debug\BinaryDisplay.pdb
+c:\users\codevalueuser\documents\visual studio 2013\Projects\BinaryDisplay\UnitTest_2.6\obj\Debug\UnitTest_2.6.csprojResolveAssemblyReference.cache
+c:\users\codevalueuser\documents\visual studio 2013\Projects\BinaryDisplay\UnitTest_2.6\obj\Debug\UnitTest_2.6.dll
+c:\users\codevalueuser\documents\visual studio 2013\Projects\BinaryDisplay\UnitTest_2.6\obj\Debug\UnitTest_2.6.pdb
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\BinaryDisplay\UnitTest_2.6\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\BinaryDisplay\UnitTest_2.6\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
