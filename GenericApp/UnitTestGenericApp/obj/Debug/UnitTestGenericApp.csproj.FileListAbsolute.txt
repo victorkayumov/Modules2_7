@@ -1,0 +1,9 @@
+C:\Users\CodeValueUser\Documents\Visual Studio 2015\Projects\GenericApp\UnitTestGenericApp\bin\Debug\UnitTestGenericApp.dll
+C:\Users\CodeValueUser\Documents\Visual Studio 2015\Projects\GenericApp\UnitTestGenericApp\bin\Debug\UnitTestGenericApp.pdb
+C:\Users\CodeValueUser\Documents\Visual Studio 2015\Projects\GenericApp\UnitTestGenericApp\bin\Debug\GenericApp.exe
+C:\Users\CodeValueUser\Documents\Visual Studio 2015\Projects\GenericApp\UnitTestGenericApp\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\CodeValueUser\Documents\Visual Studio 2015\Projects\GenericApp\UnitTestGenericApp\bin\Debug\GenericApp.pdb
+C:\Users\CodeValueUser\Documents\Visual Studio 2015\Projects\GenericApp\UnitTestGenericApp\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\CodeValueUser\Documents\Visual Studio 2015\Projects\GenericApp\UnitTestGenericApp\obj\Debug\UnitTestGenericApp.csprojResolveAssemblyReference.cache
+C:\Users\CodeValueUser\Documents\Visual Studio 2015\Projects\GenericApp\UnitTestGenericApp\obj\Debug\UnitTestGenericApp.dll
+C:\Users\CodeValueUser\Documents\Visual Studio 2015\Projects\GenericApp\UnitTestGenericApp\obj\Debug\UnitTestGenericApp.pdb
