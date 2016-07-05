@@ -1,0 +1,9 @@
+c:\Users\codevalueuser\documents\visual studio 2013\Projects\Quad\UnitTestQuad\bin\Debug\UnitTestQuad.dll
+c:\Users\codevalueuser\documents\visual studio 2013\Projects\Quad\UnitTestQuad\bin\Debug\UnitTestQuad.pdb
+c:\Users\codevalueuser\documents\visual studio 2013\Projects\Quad\UnitTestQuad\bin\Debug\Quad.exe
+c:\Users\codevalueuser\documents\visual studio 2013\Projects\Quad\UnitTestQuad\bin\Debug\Quad.pdb
+c:\Users\codevalueuser\documents\visual studio 2013\Projects\Quad\UnitTestQuad\obj\Debug\UnitTestQuad.csprojResolveAssemblyReference.cache
+c:\Users\codevalueuser\documents\visual studio 2013\Projects\Quad\UnitTestQuad\obj\Debug\UnitTestQuad.dll
+c:\Users\codevalueuser\documents\visual studio 2013\Projects\Quad\UnitTestQuad\obj\Debug\UnitTestQuad.pdb
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\Quad\UnitTestQuad\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\Quad\UnitTestQuad\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml

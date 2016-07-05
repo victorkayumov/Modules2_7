@@ -1,0 +1,6 @@
+c:\users\codevalueuser\documents\visual studio 2013\Projects\Quad\Quad\bin\Debug\Quad.exe.config
+c:\users\codevalueuser\documents\visual studio 2013\Projects\Quad\Quad\bin\Debug\Quad.exe
+c:\users\codevalueuser\documents\visual studio 2013\Projects\Quad\Quad\bin\Debug\Quad.pdb
+c:\users\codevalueuser\documents\visual studio 2013\Projects\Quad\Quad\obj\Debug\Quad.csprojResolveAssemblyReference.cache
+c:\users\codevalueuser\documents\visual studio 2013\Projects\Quad\Quad\obj\Debug\Quad.exe
+c:\users\codevalueuser\documents\visual studio 2013\Projects\Quad\Quad\obj\Debug\Quad.pdb
