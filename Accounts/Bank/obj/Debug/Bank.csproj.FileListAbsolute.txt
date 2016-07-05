@@ -1,0 +1,8 @@
+c:\Users\codevalueuser\documents\visual studio 2013\Projects\Accounts\Bank\bin\Debug\Bank.exe.config
+c:\Users\codevalueuser\documents\visual studio 2013\Projects\Accounts\Bank\bin\Debug\Bank.exe
+c:\Users\codevalueuser\documents\visual studio 2013\Projects\Accounts\Bank\bin\Debug\Bank.pdb
+c:\Users\codevalueuser\documents\visual studio 2013\Projects\Accounts\Bank\bin\Debug\AccountsLib.dll
+c:\Users\codevalueuser\documents\visual studio 2013\Projects\Accounts\Bank\bin\Debug\AccountsLib.pdb
+c:\Users\codevalueuser\documents\visual studio 2013\Projects\Accounts\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+c:\Users\codevalueuser\documents\visual studio 2013\Projects\Accounts\Bank\obj\Debug\Bank.exe
+c:\Users\codevalueuser\documents\visual studio 2013\Projects\Accounts\Bank\obj\Debug\Bank.pdb

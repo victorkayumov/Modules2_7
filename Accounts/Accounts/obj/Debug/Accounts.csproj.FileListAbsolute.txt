@@ -1,0 +1,2 @@
+c:\users\codevalueuser\documents\visual studio 2013\Projects\Accounts\Accounts\bin\Debug\Accounts.exe.config
+c:\users\codevalueuser\documents\visual studio 2013\Projects\Accounts\Accounts\obj\Debug\Accounts.csprojResolveAssemblyReference.cache
