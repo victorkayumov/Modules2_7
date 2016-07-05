@@ -1,0 +1,9 @@
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\Strings\StringUnitTest\obj\Debug\StringUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\Strings\StringUnitTest\bin\Debug\StringUnitTest.dll
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\Strings\StringUnitTest\bin\Debug\StringUnitTest.pdb
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\Strings\StringUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\Strings\StringUnitTest\bin\Debug\Strings.exe
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\Strings\StringUnitTest\bin\Debug\Strings.pdb
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\Strings\StringUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\Strings\StringUnitTest\obj\Debug\StringUnitTest.dll
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\Strings\StringUnitTest\obj\Debug\StringUnitTest.pdb
