@@ -1,0 +1,9 @@
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\CalcTest.Tests1\Calc\bin\Debug\Calc.exe.config
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\CalcTest.Tests1\Calc\bin\Debug\Calc.exe
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\CalcTest.Tests1\Calc\bin\Debug\Calc.pdb
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\CalcTest.Tests1\Calc\obj\Debug\Calc.exe
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\CalcTest.Tests1\Calc\obj\Debug\Calc.pdb
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\CalcTest.Tests1\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\Calculator\Calc\bin\Debug\Calc.exe.config
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\Calculator\Calc\obj\Debug\Calc.exe
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\Calculator\Calc\obj\Debug\Calc.pdb

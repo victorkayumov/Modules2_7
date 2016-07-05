@@ -1,0 +1,9 @@
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\CalcTest.Tests1\CalcUnitTest\obj\Debug\CalcUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\CalcTest.Tests1\CalcUnitTest\bin\Debug\CalcUnitTest.dll
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\CalcTest.Tests1\CalcUnitTest\bin\Debug\CalcUnitTest.pdb
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\CalcTest.Tests1\CalcUnitTest\bin\Debug\Calc.exe
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\CalcTest.Tests1\CalcUnitTest\bin\Debug\Calc.pdb
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\CalcTest.Tests1\CalcUnitTest\obj\Debug\CalcUnitTest.dll
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\CalcTest.Tests1\CalcUnitTest\obj\Debug\CalcUnitTest.pdb
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\CalcTest.Tests1\CalcUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\CodeValueUser\Documents\Visual Studio 2013\Projects\CalcTest.Tests1\CalcUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
