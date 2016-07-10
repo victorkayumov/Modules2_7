@@ -13,6 +13,9 @@ namespace CalcUnitTest
     [TestClass]
     public class UnitTest1
     {
+
+        // Where the Unit Tests for negative numbers?
+
         [TestMethod]
           [ExpectedException(typeof(DivideByZeroException))]
         public void Calculations_Divide_DivideByZero()
@@ -28,6 +31,9 @@ namespace CalcUnitTest
         public void Calculations_AddMaxValue_MaxValueOverFlow()
         {
             Calculations myCalc = new Calculations();
+
+            //Usually we would use the "double" alias instead of "Double".
+            // underscore "_" is the convention only for private instance fields.
             double _num1 = Double.MaxValue;
             double _num2 = 9;
             myCalc.Add(_num1, _num2);
