@@ -7,6 +7,11 @@ namespace UnitTest_2._6
     [TestClass]
     public class UnitTest1
     {
+        //Where is the testing for negative values?
+        //Where is the testing for the number of "1" bits 
+        //Where is the testing for special cases like "0"?
+        //Where is the testing for wrong arguments like "dfsdf"
+        //Where is the testing numbers that are bigger then an integer?
         [TestMethod]
         public void Convert_IntToBinary_Succseded()
         {

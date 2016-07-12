@@ -10,6 +10,7 @@ namespace BinaryDisplay
             Console.Write("Enter a number:");
             string str = Console.ReadLine();
 
+            //You could have used a static method instead of creating a new instance.
             Program parse = new Program();
             parse.Parse(str);
             
@@ -19,6 +20,7 @@ namespace BinaryDisplay
             ConvertToBinary convert = new ConvertToBinary();
             int num;
             
+            //The conventino is use the int alias over int32
             if (Int32.TryParse(str, out num))
             {
                 string s = convert.IntToBinaryString(num);
