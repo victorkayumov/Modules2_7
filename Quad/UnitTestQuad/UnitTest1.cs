@@ -4,6 +4,8 @@ using QuadNS;
 
 namespace UnitTestQuad
 {
+    //Where are tests for the actual calculations? You didn't check the logic of your calculation which is the most important thing.
+    //It is hard to test it in your code because the architecture you used. You shouldn't return formatted strings or print in calculations.
     [TestClass]
     public class QuadTests
     {
@@ -16,6 +18,7 @@ namespace UnitTestQuad
             Assert.AreEqual(true, quad.CheckArgs(str));
         }
 
+        //What about a check with no args, with 1 arg or with more than 3?
         [TestMethod]
         public void Test_CheckNot3Args_IsFalse()
         {
@@ -50,6 +53,7 @@ namespace UnitTestQuad
             var quad = new Quad();
             Assert.AreEqual(false, quad.NoSolution(toSqrt, x, y, z));
         }
+
 
 
     }

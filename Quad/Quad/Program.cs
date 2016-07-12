@@ -2,12 +2,17 @@
 
 namespace QuadNS
 {
+    //Input 1 -2 1 is not working it is yeileding an empty result
     public class Program
     {
         static void Main(string[] args)
         {
             double a, b, c, toSqrt;
             Quad quad = new Quad();
+
+            //BIG design flow. calculations shouldn't print to console. Printing to console isn't part of the calculation.
+            //Remember SOLID and single responsiblity? 
+            //You should have printed the results and the errors on the console
 
             bool num = quad.CheckArgs(args);
             if (!num)
@@ -21,21 +26,23 @@ namespace QuadNS
             if (stringOneSolution != null)
                 Console.WriteLine(stringOneSolution);
 
+            // You are not using boolNoSolution.
             toSqrt = Math.Pow(b, 2) - 4*a*c;
             bool boolNoSolution = quad.NoSolution(a, b, c, toSqrt);
 
-            if (toSqrt < 0 || a == 0)
-                return;
-            else
+            // The else is not requireed.
+            // I inverted the if statement and removed the else.
+
+            if (!(toSqrt < 0) && a != 0)
             {
                 toSqrt = Math.Sqrt(toSqrt);
                 string stringSolution = quad.Solution(a, b, c, toSqrt);
                 Console.WriteLine(stringSolution);
             }
-            
         }
     }
 
+    //Not a good idea to return a string. It isn't a good design.
     public class Quad
         {
             public  string Solution(double a, double b, double c, double toSqrt)
