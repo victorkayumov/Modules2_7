@@ -17,11 +17,13 @@ namespace AccountsLib
             Id = accountId;         
         }
 #region Methods
+
         //Deposit method//
         public void Deposit(double amount)
         {
             if (amount < 0)
             {
+                //Not good. how the client should know that the deposite failed? how the Unit tests will know? 
                 Console.WriteLine("The amount must be more then zero!!!");
             }
             else
@@ -36,16 +38,20 @@ namespace AccountsLib
         {
             if (amount <= 0)
             {
+                //It isn't a good idea print messages to the user inside your buisness logic.
                 Console.WriteLine("The amount can't be less or equal to zero!!!");
                 return false;
             }
             else if (amount > Balance)
             {
+                //It isn't a good idea print messages to the user inside your buisness logic.
                 Console.WriteLine($"id number {Id} don't allow to go into overdraft. Your Balance is: {Balance}");
                 return false;
             }
+            // The else is not neccessary. Consider using ReSharper
             else
             {
+                //It isn't a good idea print messages to the user inside your buisness logic.
                 Balance -= amount;
                 Console.WriteLine($"id number {Id} your new balance after withdraw/transference is: { Balance}");
             }
@@ -57,6 +63,8 @@ namespace AccountsLib
         {
             if (!WithDraw(amount))
             { 
+                //How would you unit test this if this doesn't return a value or throw an exception?
+                //How will the user now? 
                 Console.WriteLine("Can't transfer the money");
             }
             else
