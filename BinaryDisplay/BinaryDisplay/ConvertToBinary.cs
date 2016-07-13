@@ -19,12 +19,15 @@ namespace BinaryDisplay
 
             if (number < 0)
             {
+                //Ok, nice.
+                //Try to implement it yourslef :)
                 binary = Convert.ToString(number, 2);//convert number to binary
 
-                //cheating
+       
                 var arr = binary.ToCharArray();
 
                 //Not good. It is 'cheating. Where is the bitwise operations?
+                //It works exactly as positive numbers.
                 foreach (var array in arr)
                 {
                     if (array == '1')
@@ -35,11 +38,11 @@ namespace BinaryDisplay
             }
             while (number > 0)
             {
-                //You are appending an unkown numbers of string (max 32) without using a StringBuilder. This isn't good.
+                //You are appending an unkown numbers of strings (max 32) without using a StringBuilder.
                 // this isn't the most effienct way.
                 binary = (number & 1) + binary;
 
-                //You did the same calculation (number & 1) twice for no reason.
+                //You did the same calculation (number & 1) twice.
                 if ((number & 1) == 1)
                 {   
                     count++;
