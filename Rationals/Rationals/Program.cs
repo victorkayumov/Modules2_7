@@ -2,6 +2,7 @@
 
 namespace Rationals
 {
+    //It's better to exctract such types to a new file.
     #region Struct
     public struct Rational
         {
@@ -66,6 +67,9 @@ namespace Rationals
             }
         }
 
+        //You don't have to call 'ToString'. the '+' string operator will do that for you for each object are are contactenating with a string
+        //Also, you could use string interpolation or string.format.
+        //try: return $"{Numenator}/{Denomirator}".
         public override string ToString()
         {
             return Numenator.ToString() + "/" + Denomirator.ToString();
@@ -80,9 +84,8 @@ namespace Rationals
             static void Main(string[] args)
             {
                 var rational = new Rational(7);
-                var rational1 = new Rational(13, 26);
-                var rational2 = new Rational(9, 17);
-                
+                var rational1 = new Rational(1, 2);
+                var rational2 = new Rational(1, 4);
 
                 var rational3 = rational1.Add(rational2);
                 var rational4 = rational1.Mul(rational2);
